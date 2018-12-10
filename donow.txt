@@ -1,0 +1,71 @@
+## Bar graph
+
+Tell me a tale
+
+## Basketball visualization
+
+**For the first graph...**
+
+* Explain what the x and y axis are, in terms of your data and your scale
+* Explain how the text elements are positioned
+
+**When you move from the first step to the second step...**
+
+* Does colorScale change?
+  * Does the .domain() change? If so, what to?
+  * Does the .range() change? If so, what to?
+* Does xPositionScale change?
+  * Does the .domain() change? If so, what to?
+  * Does the .range() change? If so, what to?
+* Does yPositionScale change?
+  * Does the .domain() change? If so, what to?
+  * Does the .range() change? If so, what to?
+* Does your line generator change?
+  * Does the .x() change? If so, what to?
+  * Does the .y() change? If so, what to?
+* Does your x axis need to be updated?
+* Does your y axis need to be updated?
+* Do any of your drawn elements need to be updated?
+  * If so, what elements and what attributes?
+
+**When you move from the second step to the third step...**
+
+(Same questions as above)
+
+
+
+
+## Rotating map
+
+*Last time I gave you all of your variables, but you'll have to figure it out this time.*
+
+**When you get to the NYC step...**
+
+* What changes?
+* Do your drawn elements need to be updated?
+  * If so, what elements and what attributes?
+
+**When you get to the San Francisco step...**
+
+(Same as above)
+
+**When you get to the Shanghai step...**
+
+(Same as above)
+
+## Train Map
+
+**When you get to the 'Moscow-to-Beijing Train' step...**
+
+* What changes?
+* Do your drawn elements need to be updated?
+  * If so, what elements and what attributes?
+
+**When you get to the 'Trans-Siberian Railway' step...**
+
+(Same as above)
+
+**When you get to the 'China-Europe Block Train' step...**
+
+(Same as above)
+
